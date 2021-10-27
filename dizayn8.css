@@ -1,0 +1,26 @@
+img{
+    width: 1000px;
+    height: 100px;
+    box-sizing:border-box
+}
+
+.css{
+    display: inline-block;
+    width: 300px;
+    height:400px;
+    box-sizing:border-box
+
+}
+.js{
+    display: inline-block;
+    width: 700px;
+    height:400px;
+    box-sizing:border-box
+}
+.prog{
+    width: 1000px;
+    height: 100px;
+    box-sizing:border-box
+
+
+}
