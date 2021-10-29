@@ -6,21 +6,22 @@ header{
 }
 
 #section1{
-    display: inline-block;
+    
     width: 33%;
     height: 100px;
     background-color: #666;
+    float: left;
         
     
 }
 #section2{
-    display: inline-block;
+    float: left;
     width: 33%;
     height: 100px;
     background-color: #888;
 }
 #section3{
-    display: inline-block;
+    float: left;
     width: 33%;
     height: 100px;
     background-color: #666;

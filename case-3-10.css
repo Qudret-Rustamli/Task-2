@@ -1,0 +1,92 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+.hisse-1{
+    position: relative;
+
+    width: 100%;
+    height: 377px;
+    background-color: #999;
+
+}
+.qutu-1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: green;
+    color: black;
+    font-size: 20px;
+    top: 30px;
+    left: 30px
+}
+.qutu-2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: green;
+    color: black;
+    font-size: 20px;
+    right: 800px;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+.hisse-2{
+    position: relative;
+
+    width: 100%;
+    height: 377px;
+    background-color: #fff;
+    
+
+}
+.qutu-3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: green;
+    color: black;
+    font-size: 20px;
+    right:20px;
+    bottom: 0;
+    
+   
+}
+.qutu-4{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+    text-align: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    background-color: green;
+    color: black;
+    font-size: 20px;
+    bottom: 0;
+    
+}
