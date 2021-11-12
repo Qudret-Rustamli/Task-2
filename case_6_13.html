@@ -16,13 +16,16 @@
 
         for (i in paradisePeople){
 
-            if(yazilan === paradisePeople[i]){
+            if(paradisePeople[i] == yazilan){
                 document.write("var index:" + i)
+                break;
 
             }
-            }  if(yazilan !== paradisePeople[i]){
+            }  if(yazilan != paradisePeople[i]){
              document.write("olmadi")
          } 
+
+
     </script>
     
 </head>

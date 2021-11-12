@@ -11,10 +11,13 @@
 
         yazilan = prompt("1-9 her hansi reqem secin")
 
-        for (i of numbers){
-            if(i==yazilan){
-                document.write("var")
+        for (i in numbers){
+            if(numbers[i]==yazilan){
+                document.write("Secdiyin reqemin massivdeki index-i:  -" + i)
+                break;
             }
+        }if(numbers[i] != yazilan){
+            document.write("yox")
         }
 
 
